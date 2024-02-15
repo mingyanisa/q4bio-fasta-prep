@@ -1,0 +1,7 @@
+.env
+.nextflow
+prepro/
+work/
+.DS_Store
+*.tsv
+*.log*
